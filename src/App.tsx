@@ -45,7 +45,7 @@ function App() {
       </form>
 
       <a
-        href="https://github.com/johurul-haque"
+        href="https://github.com/johurul-haque/calculate-parallel-resistance"
         target="_blank"
         rel="noopener noreferrer"
         className="absolute bottom-5 left-1/2 -translate-x-1/2"
