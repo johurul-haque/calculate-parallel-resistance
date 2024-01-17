@@ -18,7 +18,7 @@ function App() {
 
   return (
     <main className="max-w-7xl mx-auto px-4 overflow-x-auto">
-      <h1 className="leading-tight text-2xl md:text-3xl lg:text-4xl font-bold mx-auto max-w-lg text-center mt-14 lg:mt-28">
+      <h1 className="leading-tight text-2xl md:text-3xl lg:text-4xl font-bold mx-auto max-w-xs lg:max-w-lg text-center mt-14 lg:mt-28">
         Calculate Equivalent Resistance
       </h1>
 

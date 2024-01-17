@@ -6,5 +6,5 @@ export function getEquivalentResistance(inputVal: string) {
 
   const equivalentResistance = Math.pow(Number(sumReciprocals), -1);
 
-  return Number(equivalentResistance.toFixed(5));
+  return Number(equivalentResistance.toFixed(7));
 }
